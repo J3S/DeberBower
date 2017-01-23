@@ -1,0 +1,21 @@
+{
+  "name": "Daw Deber Bower",
+  "homepage": "https://github.com/J3S/DeberBower",
+  "authors": [
+    "J3S <johnnysuarez@outlook.com>"
+  ],
+  "description": "Deber de daw segundo parcial",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}
